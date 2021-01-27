@@ -1,3 +1,10 @@
 # DDOS-ATTACK
 PYTHON SCRIPT TO MAKE A DDOS ATTACK 
-FEEL FREE TO USE MY PYTHON CODE :) 
+---------------------------------------------
+git clone 
+https://github.com/SamDvl-07/DDOS-ATTACK/
+cd DDOS-ATTACK
+--------------------------------------------
+Chmod +x 
+--------------------------------------------
+python3 ddos.py
