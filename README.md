@@ -1,6 +1,6 @@
-Updated on June 17 2022 at 03:30 AM.
+Updated on 10 August 2023
 ----------------------------------------
-git clone https://github.com/SamTrk/DDOS-ATTACK/
+git clone https://github.com/tryprodigy/DDOS-ATTACK
 ---------------------------------------------
 cd DDOS-ATTACK
 --------------------------------------------
